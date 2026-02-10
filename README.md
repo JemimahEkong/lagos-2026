@@ -2,7 +2,6 @@
 
 📍 Lagos, Nigeria  
 🗓 April/May 2026
-👩🏽‍💻 Women-focused Bitcoin & freedom tech hackathon  
 
 Hack4Freedom Lagos 2026 is part of the Hack4Freedom hackathon series, a women-focused program building open-source freedom technology across the Global South.
 
